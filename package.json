@@ -61,7 +61,7 @@
     "@webcomponents/webcomponentsjs": "^2.2.10",
     "bootstrap": "^4.3.1",
     "d3": "^5.9.2",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "fs": "0.0.1-security",
     "i18next": "^15.0.6",
     "lit-html": "^1.0.0",
